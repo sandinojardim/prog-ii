@@ -5,5 +5,5 @@
 [Formulário de Inscrição](https://forms.gle/LQQr1RAKeRtqhA6T8)
 
 ## Resultado
-(Em breve)
+[Divulgação de resultado](https://github.com/sandinojardim/prog-ii/raw/gh-pages/Resultado.pdf)
 
